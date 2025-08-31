@@ -97,6 +97,6 @@ con.register("bronze_source", df)
 - [ ] dbt tests parity (schema + data tests)
 - [ ] Export marts to Parquet/CSV for BI
 - [ ] ER diagram auto‑generation via `erdantic` or `sqlmesh`
-- [ ] Optional Streamlit dashboard fed by marts
+- [ ] Optional BI dashboard fed by marts
 
 
