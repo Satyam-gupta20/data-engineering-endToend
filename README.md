@@ -16,26 +16,9 @@ An end‑to‑end **data engineering + analytics** walkthrough that takes a publ
 ```
 .
 ├── data_engineering.ipynb      # End‑to‑end notebook
-├── requirements.txt            # Minimal Python deps
 └── README.md                   # You are here
 ```
 
----
-
-## 🧰 Setup
-
-```bash
-# 1) Create & activate a venv (optional but recommended)
-python3 -m venv .venv && source .venv/bin/activate
-
-# 2) Install deps
-pip install -r requirements.txt
-
-# 3) Launch Jupyter
-jupyter notebook  # or jupyter lab
-```
-
-> Works great on **Google Colab** too.
 
 ---
 
