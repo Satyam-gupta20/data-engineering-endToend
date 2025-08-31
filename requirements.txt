@@ -1,0 +1,6 @@
+duckdb>=1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+datasets>=2.20.0
+jupyter>=1.0.0
